@@ -1,4 +1,4 @@
 hw
 ==
 
-Lightweight USB stack for embedded devices
+This is a hello world repository
